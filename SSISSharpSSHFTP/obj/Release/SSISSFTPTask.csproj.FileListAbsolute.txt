@@ -1,0 +1,12 @@
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\bin\Release\SSISSFTPTask120.dll
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\bin\Release\SSISSFTPTask120.pdb
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\bin\Release\Microsoft.DataTransformationServices.Controls.DLL
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\bin\Release\Microsoft.SqlServer.Dts.Design.dll
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\bin\Release\Microsoft.SqlServer.ManagedDTS.dll
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\SSISSFTPTask120.frmEditProperties.resources
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\SSISSFTPTask120.Org.Mentalis.Security.Resources.SecurityServicesMessages.resources
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\Org.Mentalis.SecurityServices.Smartcard.UI.InputPinForm.resources
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\Org.Mentalis.SecurityServices.Smartcard.UI.SelectReaderForm.resources
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\SSISSFTPTask.csproj.GenerateResource.Cache
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\SSISSFTPTask120.dll
+C:\Codeplex\SSISSSHFTP\SSISSharpSSHFTP\obj\Release\SSISSFTPTask120.pdb
